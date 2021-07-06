@@ -1,0 +1,21 @@
+.ul {
+    padding-left: 20px;
+    font-size: 15px;
+    font-weight: 600;
+    justify-content: space-between;
+    width: 200px;
+}
+.btn {
+  margin-left: 10px;
+  background-color: rgb(247, 0, 0);
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: rgb(102, 10, 10);
+}
+
+.textContent {
+  justify-content: space-between;
+  display: flex;
+}
